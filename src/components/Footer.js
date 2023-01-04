@@ -12,7 +12,7 @@ function Footer() {
           <a href='https://www.linkedin.com/in/thimira-akash-9a01251b3/' target="_blank"><LinkedIn className='socialMedia-link'/></a>
             
         </div>
-        <p>&copy; 2022 Thimira Akash</p>
+        <p>&copy; 2023 Thimira Akash</p>
     </div>
   )
 }
